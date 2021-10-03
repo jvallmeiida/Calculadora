@@ -7,4 +7,5 @@ A aplicação contempla:
 - CSS
 - JS
 #### Calculadora
-![alt text](https://raw.githubusercontent.com/jvallmeiida/Calculadora/main/Screen Shot 2021-10-03 at 00.12.52.png)
+![alt text](https://raw.githubusercontent.com/jvallmeiida/Calculadora/main/Screen%20Shot%202021-10-03%20at%2000.12.52.png)
+
